@@ -10,6 +10,10 @@ This project focuses on analyzing retail sales data using Microsoft Excel. The g
 ✅ Cell Referencing
 🔹 Data Analysis Tools:
 
+
+![image](https://github.com/user-attachments/assets/e4ef8a11-12e9-41bd-906e-7cc558a07540)
+
+
 📊 Pivot Tables for summarizing large datasets
 📈 Pivot Charts for interactive visualizations
 🎛️ Slicers for dynamic filtering
@@ -28,8 +32,6 @@ The dataset consists of retail transactions, including:
 📷 Screenshot
 
 ![image](https://github.com/user-attachments/assets/7cb27503-2a2b-46f9-ae80-8c46cf83449b)
-![image](https://github.com/user-attachments/assets/e4ef8a11-12e9-41bd-906e-7cc558a07540)
-
 
 
 
