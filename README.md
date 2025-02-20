@@ -40,7 +40,7 @@ Clone this repository to your local machine:
 bash
 Copy
 Edit
-git clone https://github.com/yashriful/retail-sales-analysis.git
+git clone https://github.com/yashriful/Retail-Sales-Analysis-in-Excel/blob/main/retail_sales_dataset_Master%20-%20Copy%20YIR.xlsx
 Open the Excel file (retail_sales_analysis.xlsx) in Microsoft Excel.
 Explore different worksheets, including:
 Raw Data
